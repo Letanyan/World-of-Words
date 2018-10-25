@@ -1,0 +1,11 @@
+Cross Word.This Weeks Games{SELECT ALL FROM ![Cross Word]! WHERE ([Date Played] this week ))}<1>
+Build-A-Word.Scored More Than 50{SELECT ALL FROM ![Build-A-Word]! WHERE ([Score] is greater than (50))}<1>
+Find 'Em.Found More Than 10 Words{SELECT $([User Name], [Number of Words Found], [Score])$ FROM ![Find 'Em]! WHERE ([Number of Words Found] is greater than (9))}<1>
+Hangman.Under a Minute{SELECT ALL FROM ![Hangman]! WHERE ([Time] is less than (60 #sec#))}<1>
+Word City.More Than Needed{SELECT ALL FROM ![Word City]! WHERE ([Score] is greater than (20)) AND ([Target] equals (20))}<2>
+Word Search.Reached The Limit{SELECT ALL FROM ![Word Search]! WHERE ([Dimension] equals (10)) AND ([Number of Words] equals (10))}<2>
+Word Search.games played between June and oct by me{SELECT $([User Name], [Time], [Number of Words], [Difficulty], [Date Played])$ FROM ![Word Search]! WHERE ([User Name] is equal too (me)) AND ([Time] is not (121 #sec#)) AND ([Time] is not (0 #min#)) AND ([Date Played] between (07/01/2012*10/02/2012))}<4>
+Word Search.Wordsy{SELECT $([User Name], [Time], [Number of Words], [Dimension], [Difficulty])$ FROM ![Word Search]! WHERE ([User Name] is equal too (ME)) AND ([Time] is not (0 #min:sec#))}<2>
+Anagrams.test{SELECT ALL FROM ![Anagrams]! WHERE ([User Name] is equal too ()) AND ([Words Completed] equals ()) AND ([Difficulty] is greater than ())}<3>
+Anagrams.letan{SELECT ALL FROM ![Anagrams]! WHERE ([User Name] is equal too (letanyan))}<1>
+Anagrams.RETEST{SELECT ALL FROM ![Anagrams]! WHERE ([User Name] is equal too ()) AND ([Words Completed] equals ())}<2>

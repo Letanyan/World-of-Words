@@ -1,0 +1,406 @@
+^How To Start a New Game
+Step 1: Press the new game button
+Step 2: Fill out the set-up form with the relavant information
+Step 3: Press the Start Game button
+~.~
+
+^Can I Pause Games
+Press the Play/Pause button at the top right
+|
+Tip: Games pause automatically when you: move to another game, logout and close the program 
+~.~
+
+^Can I Just Get The Answers
+Yes and no. Certain games have the ability to show answers while others don't
+|
+To get answers press the Quit button in the toolbar furthest right to the set on the left
+|
+Games that show answers:
+- Cross Word
+- Hangman
+- Word Search
+~.~
+
+^How To Play Build-A-Word
+-Placing Tiles on the Board-
+|
+Method 1
+ Step 1: Press and hold on the tile you want to place on the board
+ Step 2: Drag the tile on the cell you to place it on
+ Step 3: Release mouse button
+|
+Method 2
+ Step 1: Click the tile you want to place on the board
+ Step 2: Click the cell on the board you want to place the letter on
+|
+-Removing Tiles-
+|
+Method 1 (Remove all in play letters)
+ Step 1: Press Recall button
+|
+Method 2
+ Step 1: Press and hold the tile you want to remove
+ Step 2: Drag tile off the board
+ Step 3: Release mouse button
+|
+-Submiting words-
+|
+Method 1 
+ Press the Check button
+|
+Tips: 
+ The scoring system is the same as the original scrabble
+ You miss a turn if you make an incorrect word
+|
+-Can't play a word-
+|
+Method 1
+ Press the Skip Turn button
+|
+Method 2
+ Press the Repick
+|
+-Skip Turn-
+This button skips your turn on to the next player and the game continues as usual
+|
+-Repick-
+This button repicks all your letters from the bag but you lose 10 points
+|
+-Recall-
+This button puts back all your tiles from the board onto your tray
+|
+Tip: Tiles are limited as in the original scrabble so you might get similar results when letters start running out
+|
+-Check Word-
+This button checks the word you put on the board is correctly placed and is a word in the dictionary and scores you
+~.~
+
+^How To Play Cross Word
+-Adding Letters-
+|
+Method 1
+ Step 1: Click a clue from the list
+ Step 2: Type all the words letters as you would normally
+|
+Method 2
+ Step 1: Click a cell on the board
+ Step 2: type a letter
+|
+-Deleting Letters-
+|
+Method 1
+ Step 1: Click a clue from the list
+ Step 2: Navigate to letter
+ Step 3: Press backspace key
+|
+Method 2
+ Step 1: Click the cell the letter is in
+ Step 2: Press backspace key
+|
+-Checking When You're Done-
+|
+Press the Check button. This will show you all the cells where you made a mistake
+|
+-Can't See the Clues-
+|
+Method 1
+ Resize the bar by dragging the edge further out
+|
+Method 2 
+ Use the Font Slider to change the font size 
+~.~
+
+^How To Play Find 'Em
+ Step 1: Click cells in order of the word you want to make
+ Step 2: Click Check
+
+ Tip: See "What Are the Find 'Em Modes" in help for more info
+~.~
+
+^How To Play Build 'Em
+ Step 1: Press and hold a cell with the letter of the word you want to start with
+ Step 2: Drag mouse over adjacent letters to form words
+ Step 2: Release mouse button when done
+
+ Tip: See "What Are the Find 'Em Modes" in help for more info
+~.~
+
+^How To Play Hangman
+ Click letters from the set at the top that you think are in the word you're trying to find
+~.~
+
+^How To Play Anagrams
+ Step 1: Type a word in using only the letters in the given word set
+ Step 2: Check word by pressing check or the enter key
+|
+Tips:
+ If you can't make any more words press Next Set
+ To view words you have made click the original word set in the list box
+ Press the Words Made button to take you to the current words made
+~.~
+
+^How To Play Break And Build
+You must morph the given word into another word by either deleting or inserting a letter
+|
+-Inserting a Letter-
+|
+ Step 1: Press the green circle that is in the position you want the letter to be inserted in
+ Step 2: Type the letter you want to insert into the insert box
+|
+-Deleting a Letter-
+|
+ Step 1: Press the red circle that is under the letter you want to delete
+~.~
+
+^How To Play Word City
+Move the shapes into position so the letters form words from left to right
+|
+-Controls-
+ Left Key: Move the shape to the left
+ Right Key: Move the shape to the right
+ Down Key: Move the shape down faster
+ Up Key: Change the shapes orientation 
+~.~
+
+^How To Play Word Search
+ Step 1: Click and hold the letter of the start of the word
+ Step 2: Drag to the last letter of the word
+ Step 3: Release mouse button
+~.~
+
+^How To Play Word Race
+You have to reach the end of the track by making words and following the rules
+|
+ Step 1: Move the car using the arrow keys or mouse to a highlighted letter repeat until you make a word
+ Step 2: Press Submit or Return key to submit the word
+|
+-Controls-
+ Left Key: Move the car to the left
+ Right Key: Move the car to the right
+ Down Key: Move the car down faster
+ Up Key: Change the car orientation
+ Backspace Key: Moves the car to its previous position
+ Return or Spacebar Key: Submit the word
+|
+Tips:
+ If you can't make a word then press Shuffle Letters though you will lose points
+ You can delete letters form your current word by either pressing the backspace key or arrow keys in the opposing direction of the arrows
+~.~
+
+^How Does Saving Work
+Saving is very simple and automatically done as it is saved as you play without any input from your end
+~.~
+
+^How Does Loading Work
+Loading is done automatically. When you log in your games that you last played is loaded.
+~.~
+
+^What Are the Find 'Em Modes
+The modes are a set of rules that one must play by to win the game
+|
+Classic 
+Description: This mode is set to be a more relaxing than anything else
+Object: Make as large a score as possible within a time limit set by yourself
+|
+Race Against Time
+Description: This mode is set to be a more challenging style of play that requires fast thinking
+Object: Reach a certain score within a certain time limit 
+|
+Puzzle 
+Description: This mode is set to make you take your time and really think about the making of your words
+Object: Reach a certain score with limited set of words available to make
+~.~
+
+^What Are The Random Letters Popping Up
+The random letters that are popping up are just a signal to tell you that there is no current game being played at the time
+~.~
+
+^How Does Search Work
+Search goes through 4 steps in looking for content if one does not find anything it goes on to the next step
+|
+ Step 1: Keywords are all in the heading 
+ Step 2: Keywords are all in the content
+ Step 3: A keyword is in the heading
+ Step 4: A keyword is in the content
+|
+Tip: type in a form of a question
+~.~
+
+^How To Use the Dictionary
+ Step 1: Type a word in the edit box
+ Step 2: Press return key
+ Step 3: Click a word from the  list box
+~.~
+
+^How To Use the Thesaurus
+ Step 1: Type a word in the edit box
+ Step 2: Press return key
+ Step 3: Click a word from the  list box
+~.~
+
+^How To Use the Hangman Solver
+ Step 1: Type letters with underscores for the letters you don't know in the edit box
+ Step 2: Press Enter
+ Step 3: View results in the list box
+|
+Example
+ Step 1: "T_LL" is typed in the edit box
+ Step 2: Enter is pressed
+ Step 3: Results are shown
+         -tall
+         -tell
+         -till 
+~.~
+
+^How To Use the Anagram Solver
+ Step 1: Type letters in the edit box
+ Step 2: Press Enter
+ Step 3: View results in the list box
+
+Example
+ Step 1: "ORDW" is typed in the edit box
+ Step 2: Enter is pressed
+ Step 3: Results are shown
+         -do
+         -od
+         -or
+         -ow
+         -dow
+         -rod
+         -row 
+~.~
+
+^Navigation Button in Tool Box
+ move back and forth from the searchs and solvers you've used 
+~.~
+
+^Creating Queries
+ Step 1: Choose a table form the drop box
+|
+-Adding Clauses-
+ Step 2: Press the Plus button to add a where clause
+ Step 3: Choose a field from the drop box
+ Step 4: Choose an opertor from the next drop box
+ Step 5: choose a value if given
+|
+-Deleting a Clause-
+ Step 2: Press the Subtract button
+|
+-Choosing Field to Show-
+ Step 2: Press the Eye button
+|
+-Adding a Field to Show-
+ Step 3: Press the Plus button in the Show panel 
+ Step 3: Choose a field to show
+ Step 4(Optional): choose a function
+|
+-Deleting a Field to Show-
+ Step 1: Press the Subtract button
+~.~
+
+^Saving Queries
+ Step 1: Press the Save button
+ Step 2: Type a name for the query
+ Step 3: Confrim
+~.~
+
+^Loading Queries
+ Step 1: Choose "Load Query..." from the Table drop box
+ Step 2(Optional): Choose a table to filter the results
+ Step 3: Choose an item by the name of the query which you named
+~.~
+
+^Hiding Top Scores
+Re-Click the tab that is currently selected to toggle the visibility of the score bar
+~.~
+
+^Anagrams Set Up
+|
+Difficulty - This determines the length of the word
+ The lower the difficulty the longer the word
+~.~
+
+^Break And Build Set Up
+|
+Time (Min) - This is how long you have to make as many words as you can
+ It's measured in minutes
+~.~
+
+^Build-A-Word Set Up
+|
+Account - This is for multiple players
+ You can log into any other registered account
+ Use a guest account and type a screen name for use
+ Leave a player void
+|
+Mode-This is how the winner is determined
+ 75-Points: first player to a score of 75 wins
+ 150-Points: first player to a score of 150 wins  
+ 8-Turns: Player with the highest score after 8 turns wins
+ 12-Turns: Player with the highest score after 12 turns wins
+~.~
+
+^Build 'Em Set Up
+|
+Mode - Determines how you play
+ Classic: How many words you can make within a time limit
+ On a Schedule: Reach a score within a time limit
+ Puzzle: Reach a score within a limited amount of words
+|
+Dimensions - Determines how many coloumns and rows on the board
+|
+Time - Limits the amount of time allowed to play
+|
+Score To Reach - score you must reach within the limitations
+|
+Word Limit - How many words are allowed to be made
+~.~
+
+^Crossword Set Up
+|
+Name - Which puzzle you want to play
+~.~
+
+^Find 'Em Set Up
+|
+Mode - Determines how you play
+ Classic: How many words you can make within a time limit
+ On a Schedule: Reach a score within a time limit
+ Puzzle: Reach a score within a limited amount of words
+|
+Dimensions - Determines how many coloumns and rows on the board
+|
+Time - Limits the amount of time allowed to play
+|
+Score To Reach - score you must reach within the limitations
+|
+Word Limit - How many words are allowed to be made
+~.~
+
+^Hangman Set Up
+|
+Min Letters - Lowest length of the word that you must find
+|
+Min Letters - Highest length of the word that you must find
+~.~
+
+^Word City Set Up
+|
+Score to reach - This is the score you must get to win the game
+~.~
+
+^Word Race Set Up
+|
+Time - This is how long you have to reach the end of the track
+~.~
+
+^Word Search Set Up
+|
+Dimensions - Determines how many coloumns and rows on the board
+|
+Minimum Letters - Lowest length of a word that you must find
+|
+Maximum Letters - Highest length of a word that you must find
+|
+Total Words - The total amount of words that you must find in the puzzle
+~.~

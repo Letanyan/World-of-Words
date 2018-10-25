@@ -1,0 +1,51 @@
+Bronze,Welcome,Create a new account :)
+Bronze,10 Logins,Login 10 times
+Silver,50 Logins,Login 50 times
+Gold,100 Logins,Login 100 times
+Silver,Stop the Mockery,Hide the highscores bar
+Bronze,Look for Help,Open the help section
+Bronze,Statistician,View the stats
+Bronze,Handyman,Open the toolbox
+Bronze,Take a Break,Pause a game
+Bronze,Checking Out,Logout
+Bronze,And so it Begins,Start any new game
+Bronze,One Hour and Counting,Have a total play time of 1 hour
+Silver,One Day and Counting,Have a total play time of 24 hours
+Gold,One Week and Counting,Have a total play time of a week
+Bronze,World Traveler,Play all the games at least once
+Bronze,Quiter,Quit a game
+Silver,You Found It,Find the original anagram word
+Gold,You Actually Found All!,Find all the words you can make with an anagram
+Gold,This has Gone to Far Now,Make 10 or more word sets
+Silver,You Should Try Harder,Skip a Set in anagrams
+Silver,That's Pretty Big,Make a Break And Build word longer than 6 letters
+Gold,You're Probably Getting Stuck,Make a Break And Build word longer than 10 letters
+Bronze,Get a Friend,Play a Build-A-Word game with an opponent
+Bronze,Forever Alone,Play Build-A-Word by yourself
+Gold,Nothing is Wasted,Build a word with all your letters
+Gold,Master Planner,Build a word with all your letters over a triple word
+Silver,First to the Finish,Reach the target score in Build-A-Word First
+Bronze,Straight as an Arrow,Make a Build 'Em that is straight
+Gold,As Long as Possible,Make a Build 'Em word that is the max length
+Silver,Double Trouble,Make a Build 'Em word with two b's in it
+Silver,One Check Wonder,Complete a cross word with only one check
+Gold,X Mark''s the Spot,Make a word with a x pattern on the board
+Gold,On the Boarder,Make a word using all the letters on the edge
+Silver,Cheaters Never Prosper,Cheat in anagrams or hangman
+Bronze,Worth a Re-Read,Read the game instructions again
+Bronze,Never Mind,Set up a new game but dont start
+Gold,Not a Drop of Blood,Win a hangman game with all lives intact
+Bronze,Out of the Norm,Start hangman without a vowel
+Gold,Order in Court,Order the stats table
+Silver,The Eye Shows all,Show the select bar in stats
+Silver,Mathematician,Use a function is stats
+Bronze,I Can Name a Function,Rename a field that has a function in stats
+Silver,I Wanna See More,Add another field to show
+Silver,That's More than I Need,Delete a field you're showing in stats
+Gold,Picky Picky,Add a clause to the stats table
+Gold,That Takes Planning,Make a word longer than 4 letters in word city
+Silver,Two Birds with One Stone,Make two words within one turn in word city
+Bronze,Really? Already,Shuffle in word race on your first turn
+Silver,You Read it,Use space bar to check word in word race
+Bronze,To the Limit,Max out the number of words in word search
+Bronze,No Breathing Space,The difference of max and min is one

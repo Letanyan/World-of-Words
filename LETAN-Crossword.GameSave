@@ -1,0 +1,97 @@
+NameofGame=Level 2
+TimePlaying=34
+Score=0
+Checks=-1
+ClueBox=(Across)
+ClueBox=1B = (2, 3, 3) Without frills or unclothed 
+ClueBox=1D = Fruit of the Dog Rose
+ClueBox=4C = Unpaid Servant
+ClueBox=4E = Marsh Grasses
+ClueBox=5D = Slide Out of Control
+ClueBox=(Down)
+ClueBox=2A = Garden Slowcoach
+ClueBox=4A = M&S rival (inits)
+ClueBox=5B = Besides otherwise
+ClueBox=6B = Lawn Tiding Tool
+ClueBox=7B = Zealous
+ClueBox=8B = Marries
+Letters=[0,0] 
+Letters=[0,1]I
+Letters=[0,2] 
+Letters=[0,3]H
+Letters=[0,4] 
+Letters=[1,0]S
+Letters=[1,1]N
+Letters=[1,2]A
+Letters=[1,3]I
+Letters=[1,4]L
+Letters=[2,0] 
+Letters=[2,1]T
+Letters=[2,2] 
+Letters=[2,3]P
+Letters=[2,4] 
+Letters=[3,0]B
+Letters=[3,1]H
+Letters=[3,2]S
+Letters=[3,3] 
+Letters=[3,4]R
+Letters=[4,0] 
+Letters=[4,1]E
+Letters=[4,2]L
+Letters=[4,3]S
+Letters=[4,4]E
+Letters=[5,0] 
+Letters=[5,1]R
+Letters=[5,2]A
+Letters=[5,3]K
+Letters=[5,4]E
+Letters=[6,0] 
+Letters=[6,1]A
+Letters=[6,2]V
+Letters=[6,3]I
+Letters=[6,4]D
+Letters=[7,0] 
+Letters=[7,1]W
+Letters=[7,2]E
+Letters=[7,3]D
+Letters=[7,4]S
+$=[0,0] 
+$=[0,1]
+$=[0,2] 
+$=[0,3]
+$=[0,4] 
+$=[1,0]
+$=[1,1]
+$=[1,2]
+$=[1,3]
+$=[1,4]
+$=[2,0] 
+$=[2,1]
+$=[2,2] 
+$=[2,3]
+$=[2,4] 
+$=[3,0]
+$=[3,1]
+$=[3,2]
+$=[3,3] 
+$=[3,4]
+$=[4,0] 
+$=[4,1]
+$=[4,2]
+$=[4,3]
+$=[4,4]
+$=[5,0] 
+$=[5,1]
+$=[5,2]
+$=[5,3]
+$=[5,4]
+$=[6,0] 
+$=[6,1]
+$=[6,2]
+$=[6,3]
+$=[6,4]
+$=[7,0] 
+$=[7,1]
+$=[7,2]
+$=[7,3]
+$=[7,4]

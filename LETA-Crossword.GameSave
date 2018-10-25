@@ -1,0 +1,114 @@
+NameofGame=Level 1
+TimePlaying=10
+Score=0
+Checks=0
+ClueBox=(Across)
+ClueBox=1B = Soya Bean Curd
+ClueBox=1D = Cold Shoulder Ignore
+ClueBox=1F = Long Lasting bitter dispute
+ClueBox=4C = Public Vehicle
+ClueBox=4E = One of the Bronte Sisters
+ClueBox=6B = Lennon's Widow Yoko
+ClueBox=6D = Sleeve for return mail
+ClueBox=6F = Dress makers fastener
+ClueBox=(Down)
+ClueBox=2B = Small Ounce of Weight
+ClueBox=4A = Buffed, Polish
+ClueBox=6A = Idle chatter about another
+ClueBox=8A = Anne _____, Henry VII's secound wife
+Letters=[0,0] 
+Letters=[0,1]T
+Letters=[0,2] 
+Letters=[0,3]S
+Letters=[0,4] 
+Letters=[0,5]F
+Letters=[1,0] 
+Letters=[1,1]O
+Letters=[1,2]U
+Letters=[1,3]N
+Letters=[1,4]C
+Letters=[1,5]E
+Letters=[2,0] 
+Letters=[2,1]F
+Letters=[2,2] 
+Letters=[2,3]U
+Letters=[2,4] 
+Letters=[2,5]U
+Letters=[3,0]R
+Letters=[3,1]U
+Letters=[3,2]B
+Letters=[3,3]B
+Letters=[3,4]E
+Letters=[3,5]D
+Letters=[4,0] 
+Letters=[4,1] 
+Letters=[4,2]U
+Letters=[4,3] 
+Letters=[4,4]M
+Letters=[4,5] 
+Letters=[5,0]G
+Letters=[5,1]O
+Letters=[5,2]S
+Letters=[5,3]S
+Letters=[5,4]I
+Letters=[5,5]P
+Letters=[6,0] 
+Letters=[6,1]N
+Letters=[6,2] 
+Letters=[6,3]A
+Letters=[6,4]L
+Letters=[6,5]I
+Letters=[7,0]B
+Letters=[7,1]O
+Letters=[7,2]L
+Letters=[7,3]E
+Letters=[7,4]Y
+Letters=[7,5]N
+$=[0,0] 
+$=[0,1]T
+$=[0,2] 
+$=[0,3]
+$=[0,4] 
+$=[0,5]
+$=[1,0] 
+$=[1,1]O
+$=[1,2]
+$=[1,3]
+$=[1,4]
+$=[1,5]
+$=[2,0] 
+$=[2,1]F
+$=[2,2] 
+$=[2,3]
+$=[2,4] 
+$=[2,5]
+$=[3,0]
+$=[3,1]U
+$=[3,2]
+$=[3,3]
+$=[3,4]
+$=[3,5]
+$=[4,0] 
+$=[4,1] 
+$=[4,2]
+$=[4,3] 
+$=[4,4]
+$=[4,5] 
+$=[5,0]
+$=[5,1]
+$=[5,2]
+$=[5,3]
+$=[5,4]
+$=[5,5]
+$=[6,0] 
+$=[6,1]
+$=[6,2] 
+$=[6,3]
+$=[6,4]
+$=[6,5]
+$=[7,0]
+$=[7,1]
+$=[7,2]
+$=[7,3]
+$=[7,4]
+$=[7,5]
